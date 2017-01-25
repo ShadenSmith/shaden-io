@@ -21,7 +21,6 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem 'jekyll-scholar'
-  #gem 'jekyll-scholar-extras', :git => 'https://github.com/adrs0049/jekyll-scholar-extras.git'
+  gem "jekyll-scholar", "~> 5.9.0"
 end
 
