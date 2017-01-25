@@ -1,0 +1,9 @@
+
+@techreport{anastasiu2016big,
+  title={Big Data and Recommender Systems},
+  author={Anastasiu, David C. and Christakopoulou, Evangelia and Smith, Shaden and Sharma, Mohit and Karypis, George},
+  institution={University of Minnesota, Department of Computer Science \& Engineering},
+  number={16-034},
+  url={https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/16-034.pdf},
+  year={2016}
+}

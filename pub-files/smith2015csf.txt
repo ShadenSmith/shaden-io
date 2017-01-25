@@ -1,0 +1,8 @@
+@inproceedings{smith2015csf,
+  title={Tensor-Matrix Products with a Compressed Sparse Tensor},
+  author={Smith, Shaden and Karypis, George},
+  booktitle={Proceedings of the 5th Workshop on Irregular Applications: Architectures and Algorithms},
+  pages={7},
+  organization={ACM},
+  year={2015}
+}

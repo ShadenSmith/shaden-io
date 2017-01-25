@@ -1,0 +1,8 @@
+@incollection{lierler2012weighted,
+  title={Weighted-sequence problem: ASP vs CASP and declarative vs problem-oriented solving},
+  author={Lierler, Yuliya and Smith, Shaden and Truszczynski, Miroslaw and Westlund, Alex},
+  booktitle={Practical Aspects of Declarative Languages},
+  pages={63--77},
+  year={2012},
+  publisher={Springer}
+}

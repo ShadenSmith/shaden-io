@@ -1,0 +1,8 @@
+@incollection{anastasiu2014big,
+  title={Big data frequent pattern mining},
+  author={Anastasiu, David C and Iverson, Jeremy and Smith, Shaden and Karypis, George},
+  booktitle={Frequent Pattern Mining},
+  pages={225--259},
+  year={2014},
+  publisher={Springer International Publishing}
+}

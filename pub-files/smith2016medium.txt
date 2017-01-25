@@ -1,0 +1,8 @@
+@inproceedings{smith2016medium,
+  title={A Medium-Grained Algorithm for Distributed Sparse Tensor Factorization},
+  author={Smith, Shaden and Karypis, George},
+  booktitle={Parallel and Distributed Processing Symposium (IPDPS), 2016 IEEE International},
+  year={2016},
+  organization={IEEE}
+}
+

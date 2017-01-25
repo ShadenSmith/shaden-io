@@ -1,0 +1,8 @@
+
+@article{smith2016exploration,
+  title={An Exploration of Optimization Algorithms for High Performance Tensor Completion},
+  author={Smith, Shaden and Park, Jongsoo and Karypis, George},
+  journal={Proceedings of the 2016 ACM/IEEE conference on Supercomputing},
+  year={2016}
+}
+

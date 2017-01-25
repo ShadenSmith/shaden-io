@@ -1,0 +1,6 @@
+@article{smith2015splatt,
+  title={SPLATT: Efficient and parallel sparse tensor-matrix multiplication},
+  author={Smith, Shaden and Ravindran, Niranjay and Sidiropoulos, Nicholas D and Karypis, George},
+  journal={29th IEEE International Parallel \& Distributed Processing Symposium},
+  year={2015}
+}

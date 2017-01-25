@@ -1,0 +1,6 @@
+@article{ravindran2014memory,
+  title={Memory-efficient parallel computation of tensor and matrix products for big tensor decomposition},
+  author={Ravindran, Niranjay and Sidiropoulos, Nicholas D and Smith, Shaden and Karypis, George},
+  journal={Proceedings of the Asilomar Conference on Signals, Systems, and Computers},
+  year={2014}
+}
