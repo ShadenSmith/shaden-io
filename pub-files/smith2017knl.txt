@@ -1,0 +1,6 @@
+@article{smith2017knl,
+  title={Sparse Tensor Factorization on Many-Core Processors with High-Bandwidth Memory},
+  author={Smith, Shaden and Park, Jongsoo and Karypis, George},
+  journal={31st IEEE International Parallel \& Distributed Processing Symposium (IPDPS'17)},
+  year={2017}
+}

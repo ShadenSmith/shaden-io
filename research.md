@@ -1,18 +1,20 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+order: 2
+
 ---
 
-My interests span high performance computing, with my thesis focusing on sparse
-tensor factorization. I am the developer of
-[SPLATT](https://github.com/ShadenSmith/splatt), a parallel toolkit for
-sparse tensor factorization and related routines.
+My interests span high performance computing, specifically in applications
+related to data mining and machine learning.  My ongoing thesis focuses on
+sparse tensor factorization. I am the developer of
+[SPLATT](https://github.com/ShadenSmith/splatt), a parallel toolkit for sparse
+tensor factorization and related routines.
 
 Beyond tensor factorization, I am interested in:
   * Computational linear algebra
+  * Parallel algorithms for graph analytics
   * Hardware accelerators (GPUs, MICs, etc.)
-  * Fault-tolerant algorithms
   * Parallel programming models
 
 ## Publications 

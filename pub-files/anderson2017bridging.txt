@@ -1,0 +1,10 @@
+@article{anderson2017bridging,
+	title={Bridging the Gap Between {HPC} and {B}ig {D}ata Frameworks},
+  author={Anderson, Michael and Smith, Shaden and Sundaram, Narayanan 
+      and Capot\u{a}, Mihai  and Zhao, Zheguang  and Dulloor, Subramanya 
+      and Satish, Nadathur  and Willke, Theodore L. },
+  journal={Proceedings of the VLDB Endowment (PVLDB '17)},
+  publisher={VLDB Endowment},
+  year={2017. To appear}
+}
+
