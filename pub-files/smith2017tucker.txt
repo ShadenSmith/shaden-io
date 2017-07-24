@@ -1,0 +1,7 @@
+@inproceedings{smith2017tucker,
+  title={Accelerating the Tucker Decomposition with Compressed Sparse Tensors},
+  author={Smith, Shaden and Karypis, George},
+  booktitle={European Conference on Parallel Processing},
+  year={2017},
+  organization={Springer}
+}

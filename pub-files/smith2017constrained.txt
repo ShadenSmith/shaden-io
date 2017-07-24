@@ -1,0 +1,7 @@
+@inproceedings{smith2017constrained,
+  title={Constrained Tensor Factorization with Accelerated AO-ADMM},
+  author={Smith, Shaden and Beri, Alec and Karypis, George},
+  booktitle={Parallel Processing (ICPP), 2016 45th International Conference on},
+  year={2017},
+  organization={IEEE}
+}
