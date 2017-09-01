@@ -4,18 +4,16 @@ title: Research
 order: 2
 
 ---
+My research is primarily concerned with the development of scalable, high
+performance algorithms for applications in data mining and machine learning.
+*Irregular* applications are of particular interest to me, such as those
+that operate on sparse graphs, matrices, and tensors.
 
-My interests span high performance computing, specifically in applications
-related to data mining and machine learning.  My ongoing thesis focuses on
-sparse tensor factorization. I am the developer of
-[SPLATT](https://github.com/ShadenSmith/splatt), a parallel toolkit for sparse
-tensor factorization and related routines.
-
-Beyond tensor factorization, I am interested in:
-  * Computational linear algebra
-  * Parallel algorithms for graph analytics
-  * Hardware accelerators (GPUs, MICs, etc.)
-  * Parallel programming models
+My thesis work has focused on large-scale sparse tensor factorization and is
+culminated in [SPLATT](https://github.com/ShadenSmith/splatt) , an open source
+software toolkit for tensor factorization and related kernels. SPLATT has been
+scaled to over 16,000 cores and is actively used by academic, industry, and
+government researchers.
 
 ## Publications 
 
