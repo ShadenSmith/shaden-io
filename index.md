@@ -2,24 +2,46 @@
 layout: home
 ---
 
-I'm a PhD candidate in computer science at the University of Minnesota.  I do
-research under [George Karypis](http://cs.umn.edu/~karypis/), focusing on
-parallel algorithms for large-scale tensor factorization.  More broadly, I'm
-interested in high performance algorithms for large-scale machine learning and
-data analytics. Most of my research is released part of
+I'm a PhD candidate in computer science at the University of Minnesota.  I am
+advised by [George Karypis](http://cs.umn.edu/~karypis/) and focus on
+developing parallel algorithms for large-scale tensor factorization.  More
+broadly, I'm interested in high performance algorithms for large-scale machine
+learning and data analytics. Most of my research is released part of
 [SPLATT](https://github.com/ShadenSmith/splatt/), an open source software
 toolkit for sparse tensor factorization.
 
-I received my BS in computer science (minor in mathematics) from the University
-of Kentucky in 2012. While there, I did research under [Mirek
-Truszczynski](http://cs.uky.edu/~mirek/) and [Brent
+I was at the University of Kentucky from 2009 to 2012 and earned my BSc in
+computer science. While there, I did research
+under [Mirek Truszczynski](http://cs.uky.edu/~mirek/) and [Brent
 Seales](http://www.stoa.org/educe/).
 
-I have completed four internships, most recently at Intel Parallel Computing
-Lab (PCL) where I continued my research on sparse tensor factorizations and was
-also involved in hardware-software codesign. Before PCL, I spent the summer of
-2013 at Lawrence Livermore National Laboratory (LLNL) porting
-[LULESH](https://codesign.llnl.gov/lulesh.php) to OpenACC.  The two summers
+I have completed four internships, most recently at the Intel Parallel
+Computing Lab where I developed [high performance algorithms for graph
+analytics](http://graphchallenge.mit.edu/champions) and was also involved in
+hardware-software codesign.  Before Intel, I spent the summer of 2013 at Lawrence
+Livermore National Laboratory (LLNL) porting
+[LULESH](https://codesign.llnl.gov/lulesh.php) to OpenACC. The two summers
 before LLNL (2011 and 2012), I interned at Lexmark as the developer of a
 particle flow modeling engine in CUDA.
+
+## Recent News
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: '%b %d, %Y' }}: <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Upcoming Travel
+<ul>
+	{% assign confs = (site.travel | sort: 'date') | reverse %}
+  {% for conf in confs %}
+    <li>
+      {{ conf.date | date: '%b %d, %Y' }}: <a href="{{ conf.site }}">{{ conf.title }}</a>
+          - {{ conf.location }}
+    </li>
+  {% endfor %}
+</ul>
+
 
