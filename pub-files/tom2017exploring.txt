@@ -1,0 +1,9 @@
+@inproceedings{tom2017exploring,
+  title={Exploring Optimizations on Shared-memory Platforms for Parallel Triangle Counting Algorithms},
+  author={
+    Tom, Ancy Sarah and Sundaram, Narayanan and Ahmed, Nesreen K. and
+    Smith, Shaden and Eyerman, Stijn and Kodiyath, Midhunchandra and
+    Hur, Ibrahim and Petrini, Fabrizio and  Karypis, George},
+  booktitle={IEEE High Performance Extreme Computing Conference (HPEC)},
+  year={2017}
+}

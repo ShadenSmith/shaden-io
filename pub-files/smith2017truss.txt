@@ -1,0 +1,8 @@
+@inproceedings{smith2017truss,
+  title={Truss Decompositions on Shared-Memory Parallel Systems},
+  author={ Smith, Shaden and Liu, Xing and  Ahmed, Nesreen K. and
+      Tom, Ancy Sarah and Petrini, Fabrizio and  Karypis, George},
+  booktitle={IEEE High Performance Extreme Computing Conference (HPEC)},
+  year={2017}
+}
+

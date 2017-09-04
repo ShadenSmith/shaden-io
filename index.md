@@ -28,12 +28,12 @@ particle flow modeling engine in CUDA.
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: '%b %d, %Y' }}: <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: '%b %d, %Y' }}: <a href="{{ post.dest }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-## Upcoming Travel
+## Travel
 <ul>
 	{% assign confs = (site.travel | sort: 'date') | reverse %}
   {% for conf in confs %}
