@@ -8,7 +8,8 @@ developing parallel algorithms for large-scale tensor factorization.  More
 broadly, I'm interested in high performance algorithms for large-scale machine
 learning and data analytics. Most of my research is released part of
 [SPLATT](https://github.com/ShadenSmith/splatt/), an open source software
-toolkit for sparse tensor factorization.
+toolkit for sparse tensor factorization. Another recent project is
+[FROSTT](http://frostt.io), a collection of open sparse tensor datasets.
 
 I was at the University of Kentucky from 2009 to 2012 and earned my BSc in
 computer science. While there, I did research
