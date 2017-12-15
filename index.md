@@ -29,7 +29,11 @@ particle flow modeling engine in CUDA.
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: '%b %d, %Y' }}: <a href="{{ post.dest }}">{{ post.title }}</a>
+      {% if post.dest %}
+        {{ post.date | date: '%b %d, %Y' }}: <a href="{{ post.dest }}">{{ post.title }}</a>
+      {% else %}
+          {{ post.date | date: '%b %d, %Y' }}: {{ post.title }}
+      {% endif %}
     </li>
   {% endfor %}
 </ul>

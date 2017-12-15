@@ -1,0 +1,7 @@
+@article{smith2017hpc,
+  title={HPC formulations of optimization algorithms for tensor completion},
+  author={Smith, Shaden and Park, Jongsoo and Karypis, George},
+  journal={Parallel Computing},
+  year={2017},
+  publisher={Elsevier}
+}
