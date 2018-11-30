@@ -21,7 +21,7 @@ GEM
       namae (~> 0.7)
     csl-styles (1.0.1.7)
       csl (~> 1.0)
-    ffi (1.9.17)
+    ffi (1.9.24)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
