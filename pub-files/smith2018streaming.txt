@@ -1,0 +1,6 @@
+@article{smith2018streaming,
+	title={Streaming Tensor Factorization for Infinite Data Sources},
+  author={Smith, Shaden and Huang, Kejun and Sidiropoulos, Nicholas D and Karypis, George},
+  journal={Proceedings of the 2018 SIAM International Conference on Data Mining (SDM'18)},
+  year={2018}
+}
